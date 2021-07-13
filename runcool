@@ -1,0 +1,7 @@
+while true;
+
+do swctrl fan diagnostic
+
+sleep 600
+
+done
